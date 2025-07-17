@@ -1,21 +1,21 @@
-Euro area economic dashboard
+# euro area economic dashboard
 
-This project provides a quick dashboard tracking key macroeconomic indicators for the euro area. It allows for a rapid visual overview of key indicators relevant for monitoring business cycle conditions and monetary policy considerations. Data is sourced from the ECB data portal.
+this project provides a quick dashboard tracking key macroeconomic indicators for the euro area. it allows for a rapid visual overview of key indicators relevant for monitoring business cycle conditions and monetary policy considerations. data is sourced from the ecb data portal.
 
-- Indicators Included
-Real GDP (Euro Area, quarterly)
-Unemployment Rate (monthly)
-Harmonised Index of Consumer Prices (HICP, monthly)
+## indicators included
+- real gdp (euro area, quarterly)  
+- unemployment rate (monthly)  
+- harmonised index of consumer prices (hicp, monthly)
 
-- Tools Used
-Python
-pandas
-matplotlib
+## tools used
+- python  
+- pandas  
+- matplotlib
 
--Sample Output
-See charts in the notebook: "dashboard_euro.ipynb"
+## sample output
+see charts in the notebook: `dashboard_euro.ipynb`
 
 ---
 
-Created by Nouhayla Torki, with the aim of exploring macroeconomic communication through open tools.
-Last updated: 2025-05-03
+created by Nouhayla Torki, with the aim of exploring macroeconomic communication through open tools.  
+last updated: 2025-05-03
